@@ -1,0 +1,11 @@
+
+Na aula passada vimos um pouquinho dos laços aninhados (um FOR dentro de outro FOR).
+Baixe as classes que estão no primeiro tópico aqui do fórum e veja um exemplo de uso de FOR aninhado, que desenha na tela um quadrado de 5 linhas e 5 colunas, preenchido com asteriscos.
+Crie um novo método na classe Desenho com a seguinte assinatura:
+public void desenhaRetangulo(int largura, int altura, char simbolo);
+
+Este método deverá desenhar em tela um retângulo, utilizando os parâmetros passados:
+- largura: quantas colunas o retângulo vai ter
+- altura: quantas linhas o retângulo vai ter
+- simbolo: o caractere que deverá ser utilizado para preencher o retângulo
+
